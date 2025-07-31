@@ -1,4 +1,4 @@
-### 👋 Halo! Nama saya muhammad yusuf ali
+### 👋 Halo! nama saya Muhammad yusuf ali
 
 Saya adalah mahasiswa Teknik Informatika yang lagi semangat belajar ngoding. Fokus utama saya sekarang:
 
