@@ -3,7 +3,7 @@
 Saya adalah mahasiswa Teknik Informatika yang lagi semangat belajar ngoding. Fokus utama saya sekarang:
 
 - 🔧 Ngoprek web (HTML, CSS, JS, PHP)
-- ⚙️ Backend & Database (MySQL, kadang main-main Node.js)
+- ⚙️ Backend & Database (Python, MySQL, kadang main-main Node.js)
 - 📱 Lagi coba-coba bikin aplikasi mobile juga
 - 🧠 Suka tantangan logika & problem solving
 
